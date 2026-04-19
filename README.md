@@ -30,24 +30,29 @@ You are responsible for maintaining the security of your device and any data sto
 
 ---
 
-## 4. Subscriptions
-### Plans and Pricing
-The App offers optional subscription plans that unlock premium features including advanced insights, the full tips library, and additional customisation options. Current pricing is displayed in the App and on the App Store at the time of purchase.
+## 4. Purchase and Subscriptions
 
-### Free Trial
-We may offer a free trial period to new subscribers. If you do not cancel before the trial ends, your subscription will automatically convert to a paid subscription and your payment method will be charged.
+### One-Time Purchase (New Customers)
+As of version 1.5, Jotter is sold as a one-time paid download through the Apple App Store. The purchase price is shown at checkout. Payment is processed by Apple; we do not receive or store your payment details.
 
-### Billing and Renewal
-Subscriptions are billed through your Apple ID account. Your subscription automatically renews at the end of each billing period unless you cancel at least 24 hours before the renewal date. Apple manages all billing, and we do not have access to your payment details.
+Your one-time purchase entitles you to use the App on any Apple devices associated with your Apple ID, in accordance with Apple's Family Sharing and "Purchased" download rules. Features included in the App at the time of your purchase are yours to use. Future feature additions are at our discretion and may or may not be included in paid updates.
 
-### Cancellation
-You can cancel your subscription at any time through your Apple ID subscription settings (Settings > Apple Account > Subscriptions). Cancellation takes effect at the end of the current paid period. You will retain access to premium features until then.
+### Legacy Subscribers
+Customers who purchased a Jotter subscription before version 1.5 may continue to use the App under their existing subscription terms. Those subscriptions:
+
+- Are billed through your Apple ID account at the interval you selected at the time of purchase
+- Automatically renew at the end of each billing period unless you cancel at least 24 hours before the renewal date
+- Can be cancelled at any time through your Apple ID subscription settings (Settings > Apple Account > Subscriptions); cancellation takes effect at the end of the current paid period
+- Are subject to Apple's billing and refund policies; we do not process refunds directly
+- Continue to receive all App features for the duration of the active subscription
+
+We do not offer new subscriptions from version 1.5 onward. If you are a legacy subscriber and cancel, you may purchase the App as a one-time download at the then-current price.
 
 ### Fee Changes
-We may change subscription pricing from time to time. Any price change will be communicated through the App Store in accordance with Apple's policies. Existing subscribers will be notified before any price increase takes effect.
+We may change the one-time purchase price from time to time. Existing owners are not affected by future price changes. Any change to legacy subscription pricing will be communicated through the App Store in accordance with Apple's policies, and existing subscribers will be notified before any price increase takes effect.
 
 ### Refunds
-Refund requests are handled by Apple in accordance with their refund policies. We do not process refunds directly.
+Refund requests for both one-time purchases and subscriptions are handled by Apple in accordance with their refund policies. We do not process refunds directly.
 
 ---
 
@@ -85,7 +90,7 @@ The App integrates with the following third-party services:
 
 - **Apple iCloud (CloudKit)** — for cross-device data sync
 - **Google Firebase Analytics** — for anonymous app usage analytics
-- **RevenueCat** — for subscription and purchase management
+- **RevenueCat** — for purchase and subscription management
 
 Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the practices or content of third-party services.
 
